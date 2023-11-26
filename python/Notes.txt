@@ -1,0 +1,161 @@
+Reason for increasing popularity
+
+
+Emphasis on code readability, shorter codes, ease of writing
+Programmers can express logical concepts in fewer lines of code in comparison to languages such as C++ or Java.
+Python supports multiple programming paradigms, like object-oriented, imperative and functional programming or procedural.
+There exists inbuilt functions for almost all of the frequently used concepts.
+Philosophy is “Simplicity is the best”.
+LANGUAGE FEATURES
+
+
+
+Interpreted
+There are no separate compilation and execution steps like C and C++.
+Directly run the program from the source code.
+Internally, Python converts the source code into an intermediate form called bytecodes which is then translated into native language of specific computer to run it.
+No need to worry about linking and loading with libraries, etc.
+
+
+
+Platform Independent
+Python programs can be developed and executed on multiple operating system platforms.
+Python can be used on Linux, Windows, Macintosh, Solaris and many more.
+Free and Open Source; Redistributable
+
+
+High-level Language
+In Python, no need to take care about low-level details such as managing the memory used by the program.
+Simple
+Closer to English language;Easy to Learn
+More emphasis on the solution to the problem rather than the syntax
+Embeddable
+Python can be used within C/C++ program to give scripting capabilities for the program’s users.
+Robust:
+Exceptional handling features
+Memory management techniques in built
+Rich Library Support
+The Python Standard Library is very vast.
+Known as the “batteries included” philosophy of Python ;It can help do various things involving regular expressions, documentation generation, unit testing, threading, databases, web browsers, CGI, email, XML, HTML, WAV files, cryptography, GUI and many more.
+Besides the standard library, there are various other high-quality libraries such as the Python Imaging Library which is an amazingly simple image manipulation library.
+
+
+
+Python is a high-level, interpreted, and general-purpose dynamic programming language that focuses on code readability. It has fewer steps when compared to Java and C. It was founded in 1991 by developer Guido Van Ross
+
+
+
+
+ 
+
+and 	
+It is a Logical Operator
+
+False	
+Represents an expression that will result in not being true.
+
+nonlocal	
+It is a non-local variable
+
+as	
+It is used to create an alias name
+
+finally	
+It is used with exceptions
+
+not	
+It is a Logical Operator
+
+assert	
+It is used for debugging
+
+for	
+It is used to create Loop
+
+or	
+It is a Logical Operator
+
+break	
+Break out a Loop
+
+from	
+To import specific parts of a module
+
+pass	
+pass is used when the user doesn’t 
+
+want any code to execute
+
+class	
+It is used to define a class
+
+global	
+It is used to declare a global variable
+
+raise	
+raise is used to raise exceptions or errors.
+
+continue	
+Skip the next iteration of a loop
+
+if	
+To create a Conditional Statement
+
+return	
+return is used to end the execution
+
+def	
+It is used to define the Function
+
+import	
+It is used to import a module
+
+True 	
+Represents an expression that will result in true.
+
+del	
+It is used to delete an object
+
+is	
+It is used to test if two variables are equal
+
+try	
+Try is used to handle errors
+
+elif	
+Conditional statements, same as else-if
+
+in	
+To check if a value is present in a Tuple, List, etc.
+
+while	
+While Loop is used to execute a block of statements
+
+else	
+It is used in a conditional statement
+
+lambda	
+Used to create an anonymous function
+
+with	
+ with statement is used in exception handling
+
+except	
+try-except is used to handle these errors
+
+None	
+It represents a null value
+
+yield	
+yield keyword is used to create a generator function
+
+
+Python Identity Operators
+Identity operators are used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location:
+"is" and "is not"
+
+
+Python Membership Operators
+Membership operators are used to test if a sequence is presented in an object:
+"in" and "not in"
+
